@@ -1,3 +1,5 @@
+![Header](./github-header-image.png)
+
 ### Hey there👋
 I’m Panida, an aspiring React engineer based in Tokyo. I enjoy learning languages and frameworks like React and Redux, as well as React Native. I’m passionate about building user-friendly and scalable applications.
 <br /><br />
