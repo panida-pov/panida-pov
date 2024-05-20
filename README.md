@@ -38,4 +38,3 @@ I’m Panida, an aspiring self-taught developer based in Tokyo. I enjoy learning
 
 ## 📊 My Stats
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panida-pov&layout=donut&theme=slateorange" /></p>
-<p align="center"><img src="https://streak-stats.demolab.com/?user=panida-pov&theme=dracula" /></p>
