@@ -5,7 +5,7 @@ I’m Panida, an aspiring self-taught developer based in Tokyo. I enjoy learning
 <br /><br />
 
 ## 👩 About Me
-🔭 I’m currently working on [To-Do List](https://github.com/panida-pov/to-do-list) project\
+🔭 I’m currently working on [ECook](https://github.com/panida-pov/ecook) project\
 👯 I’m looking to collaborate on web/application development projects\
 📫 You can reach me at panida.pov@gmail.com
 <br /><br />
@@ -31,6 +31,7 @@ I’m Panida, an aspiring self-taught developer based in Tokyo. I enjoy learning
 #### Frontend Projects :
 * [Eastery](https://github.com/panida-pov/eastery)
 * [Famsic](https://github.com/panida-pov/famsic)
+* [Srithanawat](https://github.com/panida-pov/srithanawat-store)
 #### Backend Projects :
 * [To-Do List](https://github.com/panida-pov/to-do-list)
 <br /><br />
