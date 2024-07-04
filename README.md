@@ -5,7 +5,7 @@ I’m Panida, an aspiring self-taught developer based in Tokyo. I enjoy learning
 <br /><br />
 
 ## 👩 About Me
-🔭 I’m currently working on [ECook](https://github.com/panida-pov/ecook) project\
+🔭 I’m currently learning React Native\
 👯 I’m looking to collaborate on web/application development projects\
 📫 You can reach me at panida.pov@gmail.com
 <br /><br />
