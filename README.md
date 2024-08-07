@@ -1,7 +1,7 @@
 ![Header](./github-header-image.png)
 
 ### Hey there👋
-I’m Panida, an aspiring self-taught developer based in Tokyo. I enjoy learning languages and frameworks like React and NestJS. I’m passionate about building user-friendly and scalable applications.
+I’m Panida, an aspiring self-taught developer based in Thailand. I enjoy learning languages and frameworks like React and NestJS. I’m passionate about building user-friendly and scalable applications.
 <br /><br />
 
 ## 👩 About Me
