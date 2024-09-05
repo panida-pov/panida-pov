@@ -30,9 +30,10 @@ I’m Panida, an aspiring self-taught developer based in Thailand. I enjoy learn
 
 ## ⚙️ My Projects
 #### Frontend Projects :
-* [Eastery](https://github.com/panida-pov/eastery)
-* [Famsic](https://github.com/panida-pov/famsic)
+* [Tic Tac Toe](https://github.com/panida-pov/tic-tac-toe)
 * [Srithanawat](https://github.com/panida-pov/srithanawat-store)
+* [Famsic](https://github.com/panida-pov/famsic)
+* [Eastery](https://github.com/panida-pov/eastery)
 #### Backend Projects :
 * [To-Do List](https://github.com/panida-pov/to-do-list)
 #### Fullstack Projects :
